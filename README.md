@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Interactive Sudoku board generator with instant backtracking solver algorithms.
+  name: sudoku-solver-generator version: 1.0 type: Repository author: VarshuAi description: >   Interactive Sudoku board generator with instant backtracking solver algorithms. primary_tech: CSS
 primary_tech: CSS
 ```
 
